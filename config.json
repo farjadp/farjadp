@@ -1,0 +1,36 @@
+{
+  "username": "farjadp",
+  "prompt": "farjad@ashavid",
+  "career_start_year": 2004,
+  "link": "https://farjadp.info",
+  "sections": [
+    {
+      "title": null,
+      "rows": [
+        ["Role", "AI Strategist, Startup Mentor, Builder"],
+        ["Uptime", "{years}+ years in technology"],
+        ["Host", "AshaVid Inc. (ashavid.ca)"],
+        ["Base", "Toronto, Canada"],
+        ["Method", "Think -> Challenge -> Build"],
+        null,
+        ["Stack.Web", "Next.js, TypeScript, Tailwind, Supabase"],
+        ["Stack.AI", "Claude Code, AI agents, automation"],
+        ["Languages.Real", "Persian, English"],
+        null,
+        ["Focus.Build", "AI systems, SaaS, digital transformation"],
+        ["Focus.Mentor", "Startup strategy, founders, Startup Visa"],
+        ["Projects.Featured", "Contivo, Divan, Taghvim"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "rows": [
+        ["Email", "its@farjadp.info"],
+        ["Website", "farjadp.info"],
+        ["LinkedIn", "farjadpourmohammad"],
+        ["YouTube", "@FarjadTalks"],
+        ["Instagram", "FarjadTalks"]
+      ]
+    }
+  ]
+}

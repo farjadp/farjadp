@@ -1,7 +1,7 @@
 <a href="https://farjadp.info">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="Farjad: AI Strategist, Startup Mentor, Builder. 22+ years in technology. Host: AshaVid Inc. Method: Think, Challenge, Build. Contact: its@farjadp.info, farjadp.info" src="light_mode.svg" width="985">
+    <img alt="Farjad: AI Strategist, Startup Mentor, Builder. 22+ years in technology. Host: AshaVid Inc. Method: Think, Challenge, Build. Contact: its@farjadp.com, farjadp.info" src="light_mode.svg" width="985">
   </picture>
 </a>
 
